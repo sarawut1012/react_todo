@@ -14,6 +14,7 @@ function Input({ addPost }) {
             addPost(title)
             setInput('')
         }
+        
     }
 
     return (
